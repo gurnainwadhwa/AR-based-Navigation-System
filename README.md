@@ -20,7 +20,7 @@ An intelligent bot is integrated to provide real-time assistance with voice assi
 
 
 ## Detailed Flowchart
-![Alt text](<Screenshot (525).png>)
+![Alt text](https://drive.google.com/file/d/1HE6_fO6w49fRErn3TssHS8mLr8vpjJtM/view?usp=drive_link)
 
 
 ## Demo
