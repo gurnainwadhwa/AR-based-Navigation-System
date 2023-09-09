@@ -1,10 +1,10 @@
 
 # AR BASED NAVIGATION WITH EMERGENCY INFORMATION SYSTEM
 
-Our app is an innovative augmented reality-based navigation system with a strong focus on user safety and assistance in emergencies.
+In our pursuit of elevating navigation to new heights, we envision an AR Navigation system that embraces innovative possibilities, myriad of features to enhance the traveler's journey. 
 
-
-
+Our vision includes travel planning assistance with AI virtual travel planner allowing users to create personalized itineraries. 
+The standout feature lies in its robust emergency information system, which harnesses GPS technology to swiftly respond to accidents. The app automatically dispatches the individual's precise location to the contacts which are near to their location and emergency services, like ambulance. Remarkably, this functionality remains active even when the application is not actively in use, ensuring immediate and life-saving assistance when it matters most. 
 
 
 ## Features
