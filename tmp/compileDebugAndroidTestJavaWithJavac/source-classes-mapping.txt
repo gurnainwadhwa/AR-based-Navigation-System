@@ -1,0 +1,4 @@
+com/vinayak09/wsafety/ExampleInstrumentedTest.java
+ com.vinayak09.wsafety.ExampleInstrumentedTest
+com/vinayak09/wsafety/test/BuildConfig.java
+ com.vinayak09.wsafety.test.BuildConfig

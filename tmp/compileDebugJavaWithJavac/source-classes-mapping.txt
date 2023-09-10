@@ -1,0 +1,15 @@
+com/vinayak09/wsafety/ServiceMine.java
+ com.vinayak09.wsafety.ServiceMine
+ com.vinayak09.wsafety.ServiceMine$1
+com/vinayak09/wsafety/RegisterNumberActivity.java
+ com.vinayak09.wsafety.RegisterNumberActivity
+com/vinayak09/wsafety/SplashScreen.java
+ com.vinayak09.wsafety.SplashScreen
+ com.vinayak09.wsafety.SplashScreen$1
+com/vinayak09/wsafety/MainActivity.java
+ com.vinayak09.wsafety.MainActivity
+ com.vinayak09.wsafety.MainActivity$1
+ com.vinayak09.wsafety.MainActivity$1$1
+ com.vinayak09.wsafety.MainActivity$2
+com/vinayak09/wsafety/BuildConfig.java
+ com.vinayak09.wsafety.BuildConfig
