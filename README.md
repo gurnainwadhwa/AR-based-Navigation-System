@@ -23,6 +23,8 @@ An intelligent bot is integrated to provide real-time assistance with voice assi
 
 ## Detailed Presentation
 
+https://github.com/gurnainwadhwa/AR-based-Navigation-With-Emergency-Information-ystem/assets/118024983/6ce4097c-cba1-4087-ad23-44c7d8b41ec1
+
 
 
 
